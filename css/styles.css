@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-size: 69px;
+  color: rgba(0, 190, 57, 0.596);
+}
+
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+p {
+  text-align: center;
+}
