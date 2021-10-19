@@ -26,3 +26,26 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
+.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+h3 {
+  float: right;
+}
+
+.light-swap {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+  font-style: italic;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}

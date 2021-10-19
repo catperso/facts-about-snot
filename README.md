@@ -9,6 +9,9 @@
 * _HTML_
 * _CSS_
 * _Markdown_
+* _Bootstrap_
+* _Javascript_
+* _jQuery_
 
 ## Description
 
